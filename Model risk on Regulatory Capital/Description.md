@@ -7,4 +7,4 @@ Results are striking.
 
 [Report](https://github.com/MatteoCallini/FE/blob/main/Model%20risk%20on%20Regulatory%20Capital/Project1b_Report.pdf)
 
-Run this [code](https://github.com/MatteoCallini/FE/blob/main/Model%20risk%20on%20Regulatory%20Capital/Matlab/runProject1b.m)) to see the entire project 
+Run this [code](https://github.com/MatteoCallini/FE/blob/main/Model%20risk%20on%20Regulatory%20Capital/Matlab/runProject1b.m) to see the entire project 
