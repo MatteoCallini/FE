@@ -1,4 +1,4 @@
-Using the [hedging termsheet](https://github.com/MatteoCallini/FE/blob/main/Structured%20Bond%3A%20Pricing%20and%20Hedging/Matlab/runAssignment6_Group4.m) of the structured bond, I priced the upfront, calibrating the Spot Volatilities, and assessed the various risks associated with the Greeks.
+Using the [hedging termsheet]((https://github.com/MatteoCallini/FE/blob/main/Structured%20Bond%3A%20Pricing%20and%20Hedging/Matlab/Assignment_6.pdf)) of the structured bond, I priced the upfront, calibrating the Spot Volatilities, and assessed the various risks associated with the Greeks.
 
 Upfront X% of the structure bond
 Spot Volatilities calibration from the Cap (Normal Libor Market Model for the Caplet pricing)
