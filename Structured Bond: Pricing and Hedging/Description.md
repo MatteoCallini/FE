@@ -7,4 +7,5 @@ Delta Hedging (coarse-grained buckets) using Swaps
 Vega Hedging (coarse-grained buckets) using Caps
 
 [Report](https://github.com/MatteoCallini/FE/blob/main/Structured%20Bond%3A%20Pricing%20and%20Hedging/Matlab/Report_Lab_6.pdf)
+
 This is the [Code](https://github.com/MatteoCallini/FE/blob/main/Structured%20Bond%3A%20Pricing%20and%20Hedging/Matlab/runAssignment6_Group4.m) to run the project
